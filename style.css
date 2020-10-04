@@ -1,5 +1,4 @@
 @charset "utf-8";
-
 Songs {background-color:#000; width:100%; text-align:center;} 
 Heading {color:#f00; font-size:40px; font-weight:bold;} 
 Heading, Artist, Title, Genre, Year {display:block;}
