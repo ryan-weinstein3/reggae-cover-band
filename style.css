@@ -1,5 +1,4 @@
 Songs {background-color:#000; width:100%; text-align:center;} 
-Song {color:#0f0;} 
-Heading {color:#f00; font-size:40px;} 
-
-
+Heading {color:#f00; font-size:40px; font-weight:bold;} 
+Heading, Artist, Title, Genre, Year {display:block;}
+Artist, Title, Genre, Year {font-size:20px; color:#0f0;}
