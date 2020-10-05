@@ -1,6 +1,3 @@
 @charset "utf-8";
 
-Song {display:block; border-bottom: 1px solid #1E3FD1; padding : 8px 0;}
-Song Title {font-size: 30px; font-weight: 700;}
-Song Artist {display:block;}
-Song Artist:before {content:"Artist:"; }
+Song {display:block; background-color:#000;}
