@@ -2,8 +2,8 @@
 
 Songs {background-color:#000; text-align:center;}
 Heading {color:#f00; display:block; font-size:40px;}
-Song Artist {color:#0f0; display:block; font-size:20px;}
-Song Title {color:#0f0; display:block; font-size:20px;}
+Song Artist {color:#0f0; display:block; font-size:25px;}
+Song Title {color:#0f0; display:block; font-size:25px;}
 Song Genre {color:#ff0; display:block; font-size:20px;}
 Song Year {color:#ff0; display:block; font-size:20px;}
 Song Artist:before {content:"Artist: "; }
