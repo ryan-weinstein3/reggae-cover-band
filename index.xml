@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
-<students>
-	<student>
-		<name>
-			<firstName>Sally</firstName>
-			<lastName>Struthers</lastName>
-		</name>
-		<id>101</id>
-		<gradeAvg>92</gradeAvg>
-	</student>
-	<student>
-		<name>
-			<firstName>Sam</firstName>
-			<lastName>Sneed</lastName>
-		</name>
-		<id>102</id>
-		<gradeAvg>88</gradeAvg>
-	</student>
-</students>
+<Songs>
+	<Heading>Reggae Cover Band</Heading>
+	<Song>
+		<Artist>Koffee</Artist>
+		<Title>Toast</Title>
+		<Genre>Reggae</Genre>
+		<Year>2019</Year>
+	</Song>
+</Songs>
