@@ -5,8 +5,8 @@
 		<name>
 			<firstName>Sally</firstName>
 			<lastName>Struthers</lastName>
-		</name><
-		id>101</id>
+		</name>
+		<id>101</id>
 		<gradeAvg>92</gradeAvg>
 	</student>
 	<student>
