@@ -1,8 +1,12 @@
 @charset "utf-8";
 
-Songs {background-color:#000;}
-Heading {color:#f00; display:block;}
-Song Artist {color:#0f0; display:block;}
-Song Title {color:#0f0; display:block;}
-Song Genre {color:#ff0; display:block;}
-Song Year {color:#ff0; display:block;}
+Songs {background-color:#000; text-align:center;}
+Heading {color:#f00; display:block; font-size:40px;}
+Song Artist {color:#0f0; display:block; font-size:20px;}
+Song Title {color:#0f0; display:block; font-size:20px;}
+Song Genre {color:#ff0; display:block; font-size:20px;}
+Song Year {color:#ff0; display:block; font-size:20px;}
+Song Artist:before {content:"Artist: "; }
+Song Title:before {content:"Title: "; }
+Song Genre:before {content:"Genre: "; }
+Song Year:before {content:"Year: "; }
