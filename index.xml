@@ -1,65 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type=“text/css” href=“style.css”?>
-<Songs>
-	<Heading>Reggae Cover Band</Heading>
-	<Song>
-		<Artist>Koffee</Artist>
-		<Title>Toast</Title>
-		<Genre>Reggae</Genre>
-		<Year>2019</Year>
-	</Song>
-	<Song>
-		<Artist>Kabaka Pyramid</Artist>
-		<Title>Babylon Fallin</Title>
-		<Genre>Reggae</Genre>
-		<Year>2020</Year>
-	</Song>
-	<Song>
-		<Artist>Chronixx</Artist>
-		<Title>Spirulina</Title>
-		<Genre>Reggae</Genre>
-		<Year>2014</Year>
-	</Song>
-	<Song>
-		<Artist>Protoje, Chronixx</Artist>
-		<Title>Who Knows</Title>
-		<Genre>Reggae</Genre>
-		<Year>2015</Year>
-	</Song>
-	<Song>
-		<Artist>Alborosie</Artist>
-		<Title>Can't Cool</Title>
-		<Genre>Reggae</Genre>
-		<Year>2016</Year>
-	</Song>
-	<Song>
-		<Artist>Randy Valentine</Artist>
-		<Title>Sweet Reggae Music</Title>
-		<Genre>Reggae</Genre>
-		<Year>2014</Year>
-	</Song>
-	<Song>
-		<Artist>Koffee</Artist>
-		<Title>Raggamuffin</Title>
-		<Genre>Reggae</Genre>
-		<Year>2019</Year>
-	</Song>
-	<Song>
-		<Artist>Wiley, Stefflon Don, Sean Paul, Idris Elba</Artist>
-		<Title>Boasty</Title>
-		<Genre>Reggae</Genre>
-		<Year>2019</Year>
-	</Song>
-	<Song>
-		<Artist>Chronixx, Kabaka Pyramid</Artist>
-		<Title>Mi Alright</Title>
-		<Genre>Reggae</Genre>
-		<Year>2013</Year>
-	</Song>
-	<Song>
-		<Artist>Chronixx</Artist>
-		<Title>Smile Jamaica</Title>
-		<Genre>Reggae</Genre>
-		<Year>2017</Year>
-	</Song>
-</Songs>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+<students>
+	<student>
+		<name>
+			<firstName>Sally</firstName>
+			<lastName>Struthers</lastName>
+		</name><
+		id>101</id>
+		<gradeAvg>92</gradeAvg>
+	</student>
+	<student>
+		<name>
+			<firstName>Sam</firstName>
+			<lastName>Sneed</lastName>
+		</name>
+		<id>102</id>
+		<gradeAvg>88</gradeAvg>
+	</student>
+</students>
