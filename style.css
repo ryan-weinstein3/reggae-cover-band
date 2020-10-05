@@ -1,6 +1,6 @@
 @charset "utf-8";
-/* CSS Document */
-student {display:block; border-bottom: 1px solid #1E3FD1; padding : 8px 0;}
-student name {font-size: 30px; font-weight: 700;}
-student id {display:block;}
-student id:before {content:"id:"; }
+
+Song {display:block; border-bottom: 1px solid #1E3FD1; padding : 8px 0;}
+Song Title {font-size: 30px; font-weight: 700;}
+Song Artist {display:block;}
+Song Artist:before {content:"Artist:"; }
