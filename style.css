@@ -1,3 +1,8 @@
 @charset "utf-8";
 
-Song Title {color:#00ff00;}
+Songs {background-color:#000;}
+Heading {color:#f00;}
+Song Artist {color:#0f0;}
+Song Title {color:#0f0;}
+Song Genre {color:#ff0;}
+Song Year {color:#ff0;}
